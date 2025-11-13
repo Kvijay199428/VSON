@@ -1,0 +1,15 @@
+
+[compression]
+brotli>=1.0
+
+[dev]
+pytest>=6.0
+pytest-cov>=2.12.0
+black>=21.0
+flake8>=3.9
+mypy>=0.910
+isort>=5.9
+
+[docs]
+sphinx>=4.0
+sphinx-rtd-theme>=1.0

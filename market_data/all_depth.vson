@@ -1,0 +1,6 @@
+status: success
+timestamp: 2025-11-12T22:02:53.983030
+
+snapshots[1]{timestamp, open, high, low, close, volume, last_price, buy_qty_1, buy_price_1, buy_orders_1, buy_qty_2, buy_price_2, buy_orders_2, buy_qty_3, buy_price_3, buy_orders_3, buy_qty_4, buy_price_4, buy_orders_4, buy_qty_5, buy_price_5, buy_orders_5, sell_qty_1, sell_price_1, sell_orders_1, sell_qty_2, sell_price_2, sell_orders_2, sell_qty_3, sell_price_3, sell_orders_3, sell_qty_4, sell_price_4, sell_orders_4, sell_qty_5, sell_price_5, sell_orders_5}:
+
+2025-11-12T22:02:53.983030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

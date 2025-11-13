@@ -1,0 +1,6 @@
+status: success
+timestamp: 2025-11-12T22:31:04.238178
+
+snapshots[1]{status, timestamp, total_candles, candles}:
+
+success,2025-11-12T22:31:04.238178,0,[]
