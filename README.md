@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README.md
 """
 VSON - Vesion Snapshot Object Notation
@@ -376,3 +377,7 @@ For questions or issues:
 **Made for traders, by traders. Optimized for market data. Ready for production.**
 
 â­ If VSON helps you, please give us a star on GitHub!
+=======
+# VSON
+VSON (Volumetric Symbolic Object Notation) is a lightweight, structured data format designed for trading systems and LLM-based data processing. It provides a symbolic, human-readable representation of market or analytical data that minimizes verbosity and reduces tokenization cost compared to JSON — making it ideal for AI/LLM integrations.
+>>>>>>> 3aa942b214f0ece5c89a525f597d39d87f00a5b5
