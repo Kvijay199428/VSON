@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # README.md
 """
-VSON - Vesion Snapshot Object Notation
+VSON - Volumetric Symbolic Object Notation
 
 High-performance serialization format for trading market data.
 75-80% smaller than JSON, 30-40% faster parsing.
@@ -46,7 +46,7 @@ High-performance serialization format for trading market data.
 ### Installation
 
 ```bash
-pip install vson-format
+pip install vson
 ```
 
 ### Basic Usage

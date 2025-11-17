@@ -5,14 +5,14 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "vson-format"
+name = "vson"
 version = "1.0.0"
 description = "VSON - High-performance serialization format for market data"
 readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "HYDRA Labs", email = "hydralabs@gmail.com"}
 ]
 keywords = [
     "vson", "serialization", "market-data", "trading", "ohlc",
@@ -53,10 +53,10 @@ compression = [
 vson = "vson.cli.main:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/vson-format"
-Documentation = "https://github.com/yourusername/vson-format/wiki"
-Repository = "https://github.com/yourusername/vson-format"
-BugTracker = "https://github.com/yourusername/vson-format/issues"
+Homepage = "https://github.com/kvijay199428/vson"
+Documentation = "https://github.com/kvijay199428/vson/wiki"
+Repository = "https://github.com/kvijay199428/vson"
+BugTracker = "https://github.com/kvijay199428/vson/issues"
 
 [tool.setuptools]
 packages = ["vson"]
